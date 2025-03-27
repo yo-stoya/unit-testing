@@ -40,4 +40,8 @@ public class RestrictionService {
 
         return count;
     }
+
+    public boolean isHangry() {
+        return true;
+    }
 }
