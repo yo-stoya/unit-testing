@@ -48,4 +48,8 @@ public class RestrictionService {
     public void loginWithPIN() {
         System.out.println("login with pin..");
     }
+
+    public void loginWithBiometric() {
+        System.out.println("login with biometric..");
+    }
 }
