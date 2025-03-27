@@ -44,4 +44,8 @@ public class RestrictionService {
     public boolean isHangry() {
         return true;
     }
+
+    public void loginWithPIN() {
+        System.out.println("login with pin..");
+    }
 }
